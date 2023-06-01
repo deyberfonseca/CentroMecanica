@@ -1,0 +1,11 @@
+E:\Documentos\Proyectos\C#\Registro_Reparaciones\Entidades\bin\Debug\Entidades.dll
+E:\Documentos\Proyectos\C#\Registro_Reparaciones\Entidades\bin\Debug\Entidades.pdb
+E:\Documentos\Proyectos\C#\Registro_Reparaciones\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Documentos\Proyectos\C#\Registro_Reparaciones\Entidades\obj\Debug\Entidades.dll
+E:\Documentos\Proyectos\C#\Registro_Reparaciones\Entidades\obj\Debug\Entidades.pdb
+E:\Documentos\Programacion\Proyectos\C#\Mecanica\Registro_Reparaciones\Entidades\bin\Debug\Entidades.dll
+E:\Documentos\Programacion\Proyectos\C#\Mecanica\Registro_Reparaciones\Entidades\bin\Debug\Entidades.pdb
+E:\Documentos\Programacion\Proyectos\C#\Mecanica\Registro_Reparaciones\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+E:\Documentos\Programacion\Proyectos\C#\Mecanica\Registro_Reparaciones\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Documentos\Programacion\Proyectos\C#\Mecanica\Registro_Reparaciones\Entidades\obj\Debug\Entidades.dll
+E:\Documentos\Programacion\Proyectos\C#\Mecanica\Registro_Reparaciones\Entidades\obj\Debug\Entidades.pdb
